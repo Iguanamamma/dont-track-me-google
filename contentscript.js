@@ -1,4 +1,8 @@
-// This script is the part of Don't Track Me Google (DTMG) that does not
+// ==UserScript==
+// @name         AntiGoogle
+// @match        *://*.google.com/*
+// @version      1.0
+// ==/UserScript==// This script is the part of Don't Track Me Google (DTMG) that does not
 // directly interact with the page's context. It may run in an ISOLATED world.
 
 // Keep the following functions in sync with main_world_script.js:
